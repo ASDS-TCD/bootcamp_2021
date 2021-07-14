@@ -1,0 +1,654 @@
+Approve,survey_house,end_date,sample_subpopulation,observations,mode
+0.37,Gallup,9/14/2017,Adults,1500,Live Phone
+0.43,Rasmussen,9/14/2017,Likely Voters,1500,IVR/Online
+0.43,SurveyMonkey,9/14/2017,Adults,16343,Internet
+0.39,Marist,9/13/2017,Adults,1224,Live Phone
+0.37,Gallup,9/13/2017,Adults,1500,Live Phone
+0.44,Rasmussen,9/13/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,9/12/2017,Adults,1500,Live Phone
+0.39,YouGov/Economist,9/12/2017,Adults,1500,Internet
+0.42,Rasmussen,9/12/2017,Likely Voters,1500,IVR/Online
+0.35,Ipsos/Reuters,9/12/2017,Adults,1669,Internet
+0.37,Gallup,9/11/2017,Adults,1500,Live Phone
+0.42,Politico/Morning Consult,9/11/2017,Registered Voters,1976,Internet
+0.44,Rasmussen,9/11/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,9/10/2017,Adults,1500,Live Phone
+0.44,Rasmussen,9/10/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,9/9/2017,Adults,1500,Live Phone
+0.38,Gallup,9/8/2017,Adults,1500,Live Phone
+0.36,Gallup,9/7/2017,Adults,1500,Live Phone
+0.46,Rasmussen,9/7/2017,Likely Voters,1500,IVR/Online
+0.4,SurveyMonkey,9/7/2017,Adults,13443,Internet
+0.36,Gallup,9/6/2017,Adults,1500,Live Phone
+0.45,Rasmussen,9/6/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,9/5/2017,Adults,1500,Internet
+0.37,Gallup,9/5/2017,Adults,1500,Live Phone
+0.45,Rasmussen,9/5/2017,Likely Voters,1500,IVR/Online
+0.4,Ipsos/Reuters,9/5/2017,Adults,1767,Internet
+0.37,Gallup,9/4/2017,Adults,1500,Live Phone
+0.44,Rasmussen,9/4/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,9/3/2017,Adults,1500,Live Phone
+0.43,Politico/Morning Consult,9/3/2017,Registered Voters,1993,Internet
+0.43,Rasmussen,9/3/2017,Likely Voters,1500,IVR/Online
+0.36,Gallup,9/2/2017,Adults,1500,Live Phone
+0.34,Gallup,9/1/2017,Adults,1500,Live Phone
+0.34,Gallup,8/31/2017,Adults,1500,Live Phone
+0.42,Rasmussen,8/31/2017,Likely Voters,1500,IVR/Online
+0.4,SurveyMonkey,8/31/2017,Adults,12032,Internet
+0.34,Gallup,8/30/2017,Adults,1500,Live Phone
+0.41,Rasmussen,8/30/2017,Likely Voters,1500,IVR/Online
+0.41,FOX,8/29/2017,Registered Voters,1006,Live Phone
+0.35,Gallup,8/29/2017,Adults,1500,Live Phone
+0.38,YouGov/Economist,8/29/2017,Adults,1500,Internet
+0.41,Rasmussen,8/29/2017,Likely Voters,1500,IVR/Online
+0.37,Ipsos/Reuters,8/29/2017,Adults,1767,Internet
+0.35,Gallup,8/28/2017,Adults,1500,Live Phone
+0.4,Politico/Morning Consult,8/28/2017,Registered Voters,1999,Internet
+0.41,Rasmussen,8/28/2017,Likely Voters,1500,IVR/Online
+0.35,Gallup,8/27/2017,Adults,1500,Live Phone
+0.42,Rasmussen,8/27/2017,Likely Voters,1500,IVR/Online
+0.35,Gallup,8/26/2017,Adults,1500,Live Phone
+0.35,Gallup,8/25/2017,Adults,1500,Live Phone
+0.39,SurveyMonkey,8/24/2017,Adults,9172,Internet
+0.34,Gallup,8/24/2017,Adults,1500,Live Phone
+0.42,Rasmussen,8/24/2017,Likely Voters,1500,IVR/Online
+0.34,Gallup,8/23/2017,Adults,1500,Live Phone
+0.42,Rasmussen,8/23/2017,Likely Voters,1500,IVR/Online
+0.39,YouGov/Economist,8/22/2017,Adults,1500,Internet
+0.35,Gallup,8/22/2017,Adults,1500,Live Phone
+0.41,Rasmussen,8/22/2017,Likely Voters,1500,IVR/Online
+0.36,Ipsos/Reuters,8/22/2017,Adults,2744,Internet
+0.43,Harris/Harvard,8/22/2017,Registered Voters,2263,Internet
+0.35,Quinnipiac,8/22/2017,Registered Voters,1514,Live Phone
+0.35,Gallup,8/21/2017,Adults,1500,Live Phone
+0.4,PPP (D),8/21/2017,Likely Voters,887,IVR/Online
+0.43,Rasmussen,8/21/2017,Likely Voters,1500,IVR/Online
+0.35,Gallup,8/20/2017,Adults,1500,Live Phone
+0.37,ABC/Post,8/20/2017,Adults,1001,Live Phone
+0.42,Rasmussen,8/20/2017,Likely Voters,1500,IVR/Online
+0.39,Politico/Morning Consult,8/19/2017,Registered Voters,1987,Internet
+0.36,Gallup,8/19/2017,Adults,1500,Live Phone
+0.37,Gallup,8/18/2017,Adults,1500,Live Phone
+0.38,Gallup,8/17/2017,Adults,1500,Live Phone
+0.42,Rasmussen,8/17/2017,Likely Voters,1500,IVR/Online
+0.42,GWU/Battleground,8/17/2017,Registered Voters,1000,Live Phone
+0.4,SurveyMonkey,8/17/2017,Adults,14805,Internet
+0.37,Gallup,8/16/2017,Adults,1500,Live Phone
+0.4,Rasmussen,8/16/2017,Likely Voters,1500,IVR/Online
+0.35,NPR/PBS NewsHour/Marist,8/15/2017,Adults,1125,Live Phone
+0.39,YouGov/Economist,8/15/2017,Adults,1500,Internet
+0.36,Gallup,8/15/2017,Adults,1500,Live Phone
+0.4,Rasmussen,8/15/2017,Likely Voters,1500,IVR/Online
+0.35,Ipsos/Reuters,8/15/2017,Adults,1587,Internet
+0.39,Quinnipiac,8/15/2017,Registered Voters,1361,Live Phone
+0.36,Gallup,8/14/2017,Adults,1500,Live Phone
+0.44,Politico/Morning Consult,8/14/2017,Registered Voters,1997,Internet
+0.41,Monmouth University,8/14/2017,Adults,805,Live Phone
+0.42,Rasmussen,8/14/2017,Likely Voters,1500,IVR/Online
+0.34,Gallup,8/13/2017,Adults,1500,Live Phone
+0.43,Rasmussen,8/13/2017,Likely Voters,1500,IVR/Online
+0.36,Gallup,8/12/2017,Adults,1500,Live Phone
+0.35,Marist,8/12/2017,Adults,1009,Live Phone
+0.37,Gallup,8/11/2017,Adults,1500,Live Phone
+0.37,Gallup,8/10/2017,Adults,1500,Live Phone
+0.45,Rasmussen,8/10/2017,Likely Voters,1500,IVR/Online
+0.41,SurveyMonkey,8/10/2017,Adults,14103,Internet
+0.36,Gallup,8/9/2017,Adults,1500,Live Phone
+0.44,Rasmussen,8/9/2017,Likely Voters,1500,IVR/Online
+0.4,NBC/WSJ,8/9/2017,Adults,1200,Live Phone
+0.36,Gallup,8/8/2017,Adults,1500,Live Phone
+0.37,YouGov/Economist,8/8/2017,Adults,1500,Internet
+0.42,Rasmussen,8/8/2017,Likely Voters,1500,IVR/Online
+0.37,Ipsos/Reuters,8/8/2017,Adults,1671,Internet
+0.37,Gallup,8/7/2017,Adults,1500,Live Phone
+0.41,Rasmussen,8/7/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,8/6/2017,Adults,1500,Live Phone
+0.4,Politico/Morning Consult,8/6/2017,Registered Voters,1992,Internet
+0.36,CBS,8/6/2017,Adults,111,Live Phone
+0.38,CNN,8/6/2017,Adults,1018,Live Phone
+0.41,Rasmussen,8/6/2017,Likely Voters,1500,IVR/Online
+0.36,Kaiser FF,8/6/2017,Adults,1211,Live Phone
+0.38,Gallup,8/5/2017,Adults,1500,Live Phone
+0.37,Gallup,8/4/2017,Adults,1500,Live Phone
+0.36,Gallup,8/3/2017,Adults,1500,Live Phone
+0.39,Rasmussen,8/3/2017,Likely Voters,1500,IVR/Online
+0.39,SurveyMonkey,8/3/2017,Adults,12173,Internet
+0.36,Gallup,8/2/2017,Adults,1500,Live Phone
+0.39,Rasmussen,8/2/2017,Likely Voters,1500,IVR/Online
+0.37,YouGov/Economist,8/1/2017,Adults,1500,Internet
+0.36,Gallup,8/1/2017,Adults,1500,Live Phone
+0.38,Rasmussen,8/1/2017,Likely Voters,1500,IVR/Online
+0.37,Ipsos/Reuters,8/1/2017,Adults,3130,Internet
+0.33,Quinnipiac,8/1/2017,Registered Voters,1125,Live Phone
+0.37,Gallup,7/31/2017,Adults,1500,Live Phone
+0.39,Rasmussen,7/31/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,7/30/2017,Adults,1500,Live Phone
+0.39,Rasmussen,7/30/2017,Likely Voters,1500,IVR/Online
+0.43,Politico/Morning Consult,7/29/2017,Registered Voters,1972,Internet
+0.38,Gallup,7/29/2017,Adults,1500,Live Phone
+0.39,Gallup,7/28/2017,Adults,1500,Live Phone
+0.39,Gallup,7/27/2017,Adults,1500,Live Phone
+0.41,Rasmussen,7/27/2017,Likely Voters,1500,IVR/Online
+0.39,SurveyMonkey,7/27/2017,Adults,6864,Internet
+0.39,Gallup,7/26/2017,Adults,1500,Live Phone
+0.41,Rasmussen,7/26/2017,Likely Voters,1500,IVR/Online
+0.39,YouGov/Economist,7/25/2017,Adults,1500,Internet
+0.37,Gallup,7/25/2017,Adults,1500,Live Phone
+0.42,Rasmussen,7/25/2017,Likely Voters,1500,IVR/Online
+0.35,Ipsos/Reuters,7/25/2017,Adults,1532,Internet
+0.36,Gallup,7/24/2017,Adults,1500,Live Phone
+0.44,Politico/Morning Consult,7/24/2017,Registered Voters,3981,Internet
+0.42,Rasmussen,7/24/2017,Likely Voters,1500,IVR/Online
+0.44,Harris/Harvard,7/24/2017,Registered Voters,2032,Internet
+0.37,Gallup,7/23/2017,Adults,1500,Live Phone
+0.44,Rasmussen,7/23/2017,Likely Voters,1500,IVR/Online
+0.39,Gallup,7/22/2017,Adults,1500,Live Phone
+0.38,Gallup,7/21/2017,Adults,1500,Live Phone
+0.37,Gallup,7/20/2017,Adults,1500,Live Phone
+0.43,Rasmussen,7/20/2017,Likely Voters,1500,IVR/Online
+0.35,ARG,7/20/2017,Adults,1100,Live Phone
+0.42,SurveyMonkey,7/20/2017,Adults,8382,Internet
+0.44,SurveyUSA/USA Today/iMediaEthics,7/19/2017,Adults,1250,Internet
+0.36,Gallup,7/19/2017,Adults,1500,Live Phone
+0.43,Rasmussen,7/19/2017,Likely Voters,1500,IVR/Online
+0.41,FOX,7/18/2017,Registered Voters,1020,Live Phone
+0.37,Gallup,7/18/2017,Adults,1500,Live Phone
+0.42,Rasmussen,7/18/2017,Likely Voters,1500,IVR/Online
+0.38,YouGov/Economist,7/18/2017,Adults,1500,Internet
+0.38,Ipsos/Reuters,7/18/2017,Adults,1600,Internet
+0.38,Gallup,7/17/2017,Adults,1500,Live Phone
+0.41,PPP (D),7/17/2017,Likely Voters,836,IVR/Online
+0.43,Rasmussen,7/17/2017,Likely Voters,1500,IVR/Online
+0.42,Zogby,7/16/2017,Likely Voters,1031,Internet
+0.39,Gallup,7/16/2017,Adults,1500,Live Phone
+0.39,Monmouth University,7/16/2017,Adults,800,Live Phone
+0.43,Rasmussen,7/16/2017,Likely Voters,1500,IVR/Online
+0.43,Politico/Morning Consult,7/15/2017,Registered Voters,1994,Internet
+0.38,Gallup,7/15/2017,Adults,1500,Live Phone
+0.38,Gallup,7/14/2017,Adults,1500,Live Phone
+0.43,Rasmussen,7/13/2017,Likely Voters,1500,IVR/Online
+0.36,ABC/Post,7/13/2017,Adults,1001,Live Phone
+0.39,Gallup,7/13/2017,Adults,1500,Live Phone
+0.42,SurveyMonkey,7/13/2017,Adults,16514,Internet
+0.44,Rasmussen,7/12/2017,Likely Voters,1500,IVR/Online
+0.4,Bloomberg/Selzer,7/12/2017,Adults,1001,Live Phone
+0.4,Gallup,7/11/2017,Adults,1500,Live Phone
+0.37,YouGov/Economist,7/11/2017,Adults,1500,Internet
+0.45,Rasmussen,7/11/2017,Likely Voters,1500,IVR/Online
+0.4,Ipsos/Reuters,7/11/2017,Adults,1600,Internet
+0.4,Gallup,7/10/2017,Adults,1500,Live Phone
+0.45,Rasmussen,7/10/2017,Likely Voters,1500,IVR/Online
+0.38,Kaiser FF,7/10/2017,Adults,1208,Live Phone
+0.46,Politico/Morning Consult,7/9/2017,Registered Voters,1983,Internet
+0.39,Gallup,7/9/2017,Adults,1500,Live Phone
+0.45,Rasmussen,7/9/2017,Likely Voters,1500,IVR/Online
+0.39,Gallup,7/8/2017,Adults,1500,Live Phone
+0.38,Gallup,7/7/2017,Adults,1500,Live Phone
+0.37,Gallup,7/6/2017,Adults,1500,Live Phone
+0.45,Rasmussen,7/6/2017,Likely Voters,1500,IVR/Online
+0.43,SurveyMonkey,7/6/2017,Adults,12338,Internet
+0.37,Gallup,7/5/2017,Adults,1500,Live Phone
+0.44,Rasmussen,7/5/2017,Likely Voters,1500,IVR/Online
+0.38,YouGov/Economist,7/4/2017,Adults,1500,Internet
+0.38,Ipsos/Reuters,7/4/2017,Adults,1600,Internet
+0.37,Gallup,7/3/2017,Adults,1500,Live Phone
+0.44,Rasmussen,7/3/2017,Likely Voters,1500,IVR/Online
+0.39,Gallup,7/2/2017,Adults,1500,Live Phone
+0.44,Rasmussen,7/2/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,7/1/2017,Adults,1500,Live Phone
+0.38,Gallup,6/30/2017,Adults,1500,Live Phone
+0.38,Gallup,6/29/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/29/2017,Likely Voters,1500,IVR/Online
+0.41,SurveyMonkey,6/29/2017,Adults,10945,Internet
+0.4,Gallup,6/28/2017,Adults,1500,Live Phone
+0.45,Rasmussen,6/28/2017,Likely Voters,1500,IVR/Online
+0.44,FOX,6/27/2017,Registered Voters,1017,Live Phone
+0.39,Gallup,6/27/2017,Adults,1500,Live Phone
+0.39,YouGov/Economist,6/27/2017,Adults,1500,Internet
+0.46,Rasmussen,6/27/2017,Likely Voters,1500,IVR/Online
+0.42,Suffolk/USA Today,6/27/2017,Registered Voters,1000,Live Phone
+0.35,Ipsos/Reuters,6/27/2017,Adults,1620,Internet
+0.4,Quinnipiac,6/27/2017,Registered Voters,1361,Live Phone
+0.39,Gallup,6/26/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/26/2017,Likely Voters,1500,IVR/Online
+0.36,Gallup,6/25/2017,Adults,1500,Live Phone
+0.37,NPR/PBS NewsHour/Marist,6/25/2017,Adults,1205,Live Phone
+0.47,Rasmussen,6/25/2017,Likely Voters,1500,IVR/Online
+0.45,Politico/Morning Consult,6/24/2017,Registered Voters,1994,Internet
+0.38,Gallup,6/24/2017,Adults,1500,Live Phone
+0.39,Gallup,6/23/2017,Adults,1500,Live Phone
+0.42,Gallup,6/22/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/22/2017,Likely Voters,1500,IVR/Online
+0.43,SurveyMonkey,6/22/2017,Adults,13657,Internet
+0.48,Harris/Harvard,6/21/2017,Registered Voters,2258,Internet
+0.39,Gallup,6/21/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/21/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,6/20/2017,Adults,1500,Live Phone
+0.4,YouGov/Economist,6/20/2017,Adults,1500,Internet
+0.45,Rasmussen,6/20/2017,Likely Voters,1500,IVR/Online
+0.4,NBC/WSJ,6/20/2017,Adults,900,Live Phone
+0.37,ARG,6/20/2017,Adults,1100,Live Phone
+0.38,Ipsos/Reuters,6/20/2017,Adults,2371,Internet
+0.37,Gallup,6/19/2017,Adults,1500,Live Phone
+0.44,Politico/Morning Consult,6/19/2017,Registered Voters,2051,Internet
+0.47,Rasmussen,6/19/2017,Likely Voters,1500,IVR/Online
+0.4,Kaiser FF,6/19/2017,Adults,1208,Live Phone
+0.38,Gallup,6/18/2017,Adults,1500,Live Phone
+0.36,CBS,6/18/2017,Adults,1214,Live Phone
+0.48,Rasmussen,6/18/2017,Likely Voters,1500,IVR/Online
+0.39,Pew,6/18/2017,Adults,2504,Live Phone
+0.39,Gallup,6/17/2017,Adults,1500,Live Phone
+0.39,Gallup,6/16/2017,Adults,1500,Live Phone
+0.38,Gallup,6/15/2017,Adults,1500,Live Phone
+0.5,Rasmussen,6/15/2017,Likely Voters,1500,IVR/Online
+0.43,SurveyMonkey,6/15/2017,Adults,17092,Internet
+0.38,Gallup,6/14/2017,Adults,1500,Live Phone
+0.47,Rasmussen,6/14/2017,Likely Voters,1500,IVR/Online
+0.36,Gallup,6/13/2017,Adults,1500,Live Phone
+0.39,YouGov/Economist,6/13/2017,Adults,1500,Internet
+0.45,Rasmussen,6/13/2017,Likely Voters,1500,IVR/Online
+0.4,Ipsos/Reuters,6/13/2017,Adults,2371,Internet
+0.36,Gallup,6/12/2017,Adults,1500,Live Phone
+0.37,CNBC,6/12/2017,Adults,800,Live Phone
+0.41,Zogby,6/12/2017,Likely Voters,1031,Internet
+0.45,Politico/Morning Consult,6/12/2017,Registered Voters,1999,Internet
+0.43,Rasmussen,6/12/2017,Likely Voters,1500,IVR/Online
+0.41,PPP (D),6/11/2017,Likely Voters,811,IVR/Online
+0.36,Gallup,6/11/2017,Adults,1500,Live Phone
+0.35,AP-NORC,6/11/2017,Adults,1068,Live Phone/Online
+0.46,Rasmussen,6/11/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,6/10/2017,Adults,1500,Live Phone
+0.39,Gallup,6/9/2017,Adults,1500,Live Phone
+0.37,Gallup,6/8/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/8/2017,Likely Voters,1500,IVR/Online
+0.41,SurveyMonkey,6/8/2017,Adults,12770,Internet
+0.37,Gallup,6/7/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/7/2017,Likely Voters,1500,IVR/Online
+0.38,Gallup,6/6/2017,Adults,1500,Live Phone
+0.45,Rasmussen,6/6/2017,Likely Voters,1500,IVR/Online
+0.38,YouGov/Economist,6/6/2017,Adults,1500,Internet
+0.38,Ipsos/Reuters,6/6/2017,Adults,2371,Internet
+0.34,Quinnipiac,6/6/2017,Registered Voters,1361,Live Phone
+0.37,IBD/TIPP,6/6/2017,Adults,903,Live Phone
+0.38,Gallup,6/5/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/5/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,6/4/2017,Adults,1500,Live Phone
+0.46,Rasmussen,6/4/2017,Likely Voters,1500,IVR/Online
+0.36,Gallup,6/3/2017,Adults,1500,Live Phone
+0.44,Politico/Morning Consult,6/2/2017,Registered Voters,1999,Internet
+0.37,Gallup,6/2/2017,Adults,1500,Live Phone
+0.39,Gallup,6/1/2017,Adults,1500,Live Phone
+0.44,Rasmussen,6/1/2017,Likely Voters,1500,IVR/Online
+0.42,SurveyMonkey,6/1/2017,Adults,11287,Internet
+0.4,Gallup,5/31/2017,Adults,1500,Live Phone
+0.43,Rasmussen,5/31/2017,Likely Voters,1500,IVR/Online
+0.41,Gallup,5/30/2017,Adults,1500,Live Phone
+0.43,Rasmussen,5/30/2017,Likely Voters,1500,IVR/Online
+0.38,YouGov/Economist,5/30/2017,Adults,1500,Internet
+0.4,Ipsos/Reuters,5/30/2017,Adults,2081,Internet
+0.45,Politico/Morning Consult,5/30/2017,Registered Voters,1991,Internet
+0.41,Gallup,5/29/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/29/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,5/28/2017,Adults,1500,Live Phone
+0.45,Rasmussen,5/28/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,5/27/2017,Adults,1500,Live Phone
+0.41,Gallup,5/26/2017,Adults,1500,Live Phone
+0.41,Gallup,5/25/2017,Adults,1500,Live Phone
+0.46,Rasmussen,5/25/2017,Likely Voters,1500,IVR/Online
+0.41,SurveyMonkey,5/25/2017,Adults,11241,Internet
+0.39,Gallup,5/24/2017,Adults,1500,Live Phone
+0.48,Rasmussen,5/24/2017,Likely Voters,1500,IVR/Online
+0.4,FOX,5/23/2017,Registered Voters,1011,Live Phone
+0.39,Gallup,5/23/2017,Adults,1500,Live Phone
+0.48,Rasmussen,5/23/2017,Likely Voters,1500,IVR/Online
+0.39,YouGov/Economist,5/23/2017,Adults,1500,Internet
+0.37,Ipsos/Reuters,5/23/2017,Adults,2000,Internet
+0.37,Quinnipiac,5/23/2017,Registered Voters,1404,Live Phone
+0.38,Gallup,5/22/2017,Adults,1500,Live Phone
+0.46,Politico/Morning Consult,5/22/2017,Registered Voters,1938,Internet
+0.46,Rasmussen,5/22/2017,Likely Voters,1500,IVR/Online
+0.37,Kaiser FF,5/22/2017,Adults,1025,Live Phone
+0.37,Gallup,5/21/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/21/2017,Likely Voters,1500,IVR/Online
+0.45,Harris/Harvard,5/20/2017,Registered Voters,2027,Internet
+0.38,Gallup,5/20/2017,Adults,1500,Live Phone
+0.39,ARG,5/20/2017,Adults,1100,Live Phone
+0.37,Gallup,5/19/2017,Adults,1500,Live Phone
+0.38,Gallup,5/18/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/18/2017,Likely Voters,1500,IVR/Online
+0.41,Politico/Morning Consult,5/18/2017,Registered Voters,1970,Internet
+0.38,Ipsos/Reuters,5/18/2017,Adults,1971,Internet
+0.4,SurveyMonkey,5/18/2017,Adults,10468,Internet
+0.38,Gallup,5/17/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/17/2017,Likely Voters,1500,IVR/Online
+0.39,Monmouth University,5/17/2017,Adults,1002,Live Phone
+0.38,Gallup,5/16/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/16/2017,Likely Voters,1500,IVR/Online
+0.39,YouGov/Economist,5/16/2017,Adults,1500,Internet
+0.39,Ipsos/Reuters,5/16/2017,Adults,1868,Internet
+0.38,Gallup,5/15/2017,Adults,1500,Live Phone
+0.43,Rasmussen,5/15/2017,Likely Voters,1500,IVR/Online
+0.43,Politico/Morning Consult,5/14/2017,Registered Voters,2001,Internet
+0.4,PPP (D),5/14/2017,Likely Voters,692,IVR/Online
+0.38,Gallup,5/14/2017,Adults,1500,Live Phone
+0.44,Rasmussen,5/14/2017,Likely Voters,1500,IVR/Online
+0.39,NBC/WSJ,5/13/2017,Adults,800,Live Phone
+0.39,Gallup,5/13/2017,Adults,1500,Live Phone
+0.4,Gallup,5/12/2017,Adults,1500,Live Phone
+0.41,Gallup,5/11/2017,Adults,1500,Live Phone
+0.45,Rasmussen,5/11/2017,Likely Voters,1500,IVR/Online
+0.45,Politico/Morning Consult,5/11/2017,Registered Voters,1731,Internet
+0.43,SurveyMonkey,5/11/2017,Adults,10468,Internet
+0.38,Gallup,5/10/2017,Adults,1500,Live Phone
+0.48,Rasmussen,5/10/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,5/9/2017,Adults,1500,Live Phone
+0.47,Rasmussen,5/9/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,5/9/2017,Adults,1500,Internet
+0.43,Ipsos/Reuters,5/9/2017,Adults,1830,Internet
+0.36,Quinnipiac,5/9/2017,Registered Voters,1078,Live Phone
+0.4,Gallup,5/8/2017,Adults,1500,Live Phone
+0.46,Rasmussen,5/8/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,5/7/2017,Adults,1500,Live Phone
+0.45,Rasmussen,5/7/2017,Likely Voters,1500,IVR/Online
+0.44,Politico/Morning Consult,5/6/2017,Registered Voters,1996,Internet
+0.4,Gallup,5/6/2017,Adults,1500,Live Phone
+0.4,Gallup,5/5/2017,Adults,1500,Live Phone
+0.42,Gallup,5/4/2017,Adults,1500,Live Phone
+0.46,Rasmussen,5/4/2017,Likely Voters,1500,IVR/Online
+0.39,IBD/TIPP,5/4/2017,Adults,904,Live Phone
+0.45,SurveyMonkey,5/4/2017,Adults,17300,Internet
+0.48,Rasmussen,5/3/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,5/2/2017,Adults,1500,Live Phone
+0.49,Rasmussen,5/2/2017,Likely Voters,1500,IVR/Online
+0.43,YouGov/Economist,5/2/2017,Adults,1500,Internet
+0.44,Ipsos/Reuters,5/2/2017,Adults,2214,Internet
+0.42,Gallup,5/1/2017,Adults,1500,Live Phone
+0.48,Rasmussen,5/1/2017,Likely Voters,1500,IVR/Online
+0.41,Gallup,4/30/2017,Adults,1500,Live Phone
+0.48,Politico/Morning Consult,4/30/2017,Registered Voters,1998,Internet
+0.47,Rasmussen,4/30/2017,Likely Voters,1500,IVR/Online
+0.44,Zogby,4/29/2017,Likely Voters,876,Internet
+0.42,Gallup,4/29/2017,Adults,1500,Live Phone
+0.43,Gallup,4/28/2017,Adults,1500,Live Phone
+0.43,Gallup,4/27/2017,Adults,1500,Live Phone
+0.47,Rasmussen,4/27/2017,Likely Voters,1500,IVR/Online
+0.32,ICITIZEN,4/27/2017,Adults,1051,Internet
+0.46,SurveyMonkey,4/27/2017,Adults,15235,Internet
+0.4,Gallup,4/26/2017,Adults,1500,Live Phone
+0.45,Rasmussen,4/26/2017,Likely Voters,1500,IVR/Online
+0.45,FOX,4/25/2017,Registered Voters,1009,Live Phone
+0.39,Gallup,4/25/2017,Adults,1500,Live Phone
+0.46,Rasmussen,4/25/2017,Likely Voters,1500,IVR/Online
+0.42,YouGov/Economist,4/25/2017,Adults,1500,Internet
+0.44,CNN,4/25/2017,Adults,1009,Live Phone
+0.41,Ipsos/Reuters,4/25/2017,Adults,2165,Internet
+0.4,Gallup,4/24/2017,Adults,1500,Live Phone
+0.41,CBS,4/24/2017,Adults,1214,Live Phone
+0.51,Politico/Morning Consult,4/24/2017,Registered Voters,2032,Internet
+0.47,Rasmussen,4/24/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,4/23/2017,Adults,1500,Live Phone
+0.51,Rasmussen,4/23/2017,Likely Voters,1500,IVR/Online
+0.45,Kaiser FF,4/23/2017,Adults,1171,Live Phone
+0.4,Gallup,4/22/2017,Adults,1500,Live Phone
+0.42,Gallup,4/21/2017,Adults,1500,Live Phone
+0.43,Gallup,4/20/2017,Adults,1500,Live Phone
+0.49,Rasmussen,4/20/2017,Likely Voters,1500,IVR/Online
+0.42,Gravis Marketing/Orlando Political Observer,4/20/2017,Registered Voters,1665,IVR/Online
+0.42,ABC/Post,4/20/2017,Adults,1004,Live Phone
+0.4,NBC/WSJ,4/20/2017,Adults,900,Live Phone
+0.39,ARG,4/20/2017,Adults,1100,Live Phone
+0.44,SurveyMonkey,4/20/2017,Adults,15855,Internet
+0.43,Gallup,4/19/2017,Adults,1500,Live Phone
+0.49,Rasmussen,4/19/2017,Likely Voters,1500,IVR/Online
+0.43,PPP (D),4/18/2017,Likely Voters,648,IVR/Online
+0.34,ICITIZEN,4/18/2017,Adults,1073,Internet
+0.42,Gallup,4/18/2017,Adults,1500,Live Phone
+0.48,Rasmussen,4/18/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,4/18/2017,Adults,1500,Internet
+0.4,Quinnipiac,4/18/2017,Registered Voters,1062,Live Phone
+0.41,Gallup,4/17/2017,Adults,1500,Live Phone
+0.48,Harris/Harvard,4/17/2017,Registered Voters,2027,Internet
+0.43,Ipsos/Reuters,4/17/2017,Adults,1843,Internet
+0.5,Rasmussen,4/17/2017,Likely Voters,1500,IVR/Online
+0.5,Rasmussen,4/16/2017,Likely Voters,1500,IVR/Online
+0.48,Politico/Morning Consult,4/15/2017,Registered Voters,1992,Internet
+0.41,Gallup,4/15/2017,Adults,1500,Live Phone
+0.39,Gallup,4/14/2017,Adults,1500,Live Phone
+0.4,Gallup,4/13/2017,Adults,1500,Live Phone
+0.48,Rasmussen,4/13/2017,Likely Voters,1500,IVR/Online
+0.44,SurveyMonkey,4/13/2017,Adults,20020,Internet
+0.39,McClatchy/Marist,4/12/2017,Registered Voters,869,Live Phone
+0.4,Gallup,4/12/2017,Adults,1500,Live Phone
+0.48,Rasmussen,4/12/2017,Likely Voters,1500,IVR/Online
+0.35,ICITIZEN,4/12/2017,Adults,1077,Internet
+0.4,YouGov/Economist,4/11/2017,Adults,1500,Internet
+0.41,Gallup,4/11/2017,Adults,1500,Live Phone
+0.47,Rasmussen,4/11/2017,Likely Voters,1500,IVR/Online
+0.39,Pew,4/11/2017,Adults,3844,Live Phone/Online
+0.4,Gallup,4/10/2017,Adults,1500,Live Phone
+0.47,Rasmussen,4/10/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,4/9/2017,Adults,1500,Live Phone
+0.43,CBS,4/9/2017,Adults,1006,Live Phone
+0.48,Politico/Morning Consult,4/9/2017,Registered Voters,1988,Internet
+0.44,Rasmussen,4/9/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,4/8/2017,Adults,1500,Live Phone
+0.4,Gallup,4/7/2017,Adults,1500,Live Phone
+0.4,Gallup,4/6/2017,Adults,1500,Live Phone
+0.45,Rasmussen,4/6/2017,Likely Voters,1500,IVR/Online
+0.42,SurveyMonkey,4/6/2017,Adults,14518,Internet
+0.41,Gallup,4/5/2017,Adults,1500,Live Phone
+0.35,ICITIZEN,4/5/2017,Adults,1584,Internet
+0.46,Rasmussen,4/5/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,4/4/2017,Adults,1500,Live Phone
+0.46,Rasmussen,4/4/2017,Likely Voters,1500,IVR/Online
+0.4,YouGov/Economist,4/4/2017,Adults,1500,Internet
+0.46,Ipsos/Reuters,4/4/2017,Adults,2149,Internet
+0.39,Gallup,4/3/2017,Adults,1500,Live Phone
+0.35,Quinnipiac,4/3/2017,Registered Voters,1171,Live Phone
+0.43,Rasmussen,4/3/2017,Likely Voters,1500,IVR/Online
+0.41,Kaiser FF,4/3/2017,Adults,1203,Live Phone
+0.38,Gallup,4/2/2017,Adults,1500,Live Phone
+0.42,Rasmussen,4/2/2017,Likely Voters,1500,IVR/Online
+0.47,Politico/Morning Consult,4/1/2017,Registered Voters,1995,Internet
+0.38,Gallup,4/1/2017,Adults,1500,Live Phone
+0.4,Gallup,3/31/2017,Adults,1500,Live Phone
+0.38,Gallup,3/30/2017,Adults,1500,Live Phone
+0.43,Rasmussen,3/30/2017,Likely Voters,1500,IVR/Online
+0.34,IBD/TIPP,3/30/2017,Adults,904,Live Phone
+0.42,SurveyMonkey,3/30/2017,Adults,11890,Internet
+0.38,Gallup,3/29/2017,Adults,1500,Live Phone
+0.33,ICITIZEN,3/29/2017,Adults,1062,Internet
+0.44,Rasmussen,3/29/2017,Likely Voters,1500,IVR/Online
+0.4,PPP (D),3/28/2017,Likely Voters,677,IVR/Online
+0.35,Gallup,3/28/2017,Adults,1500,Live Phone
+0.41,YouGov/Economist,3/28/2017,Adults,1500,Internet
+0.44,Rasmussen,3/28/2017,Likely Voters,1500,IVR/Online
+0.4,CBS,3/28/2017,Adults,1088,Live Phone
+0.42,NBC/SurveyMonkey,3/28/2017,Adults,7832,Internet
+0.44,Ipsos/Reuters,3/28/2017,Adults,1646,Internet
+0.36,Gallup,3/27/2017,Adults,1500,Live Phone
+0.42,SurveyMonkey,3/27/2017,Adults,6488,Internet
+0.42,AP-NORC,3/27/2017,Adults,1110,Live Phone/Online
+0.45,Rasmussen,3/27/2017,Likely Voters,1500,IVR/Online
+0.38,McClatchy/Marist,3/27/2017,Registered Voters,906,Live Phone
+0.36,Gallup,3/26/2017,Adults,1500,Live Phone
+0.45,Rasmussen,3/26/2017,Likely Voters,1500,IVR/Online
+0.45,Politico/Morning Consult,3/25/2017,Registered Voters,1991,Internet
+0.4,Gallup,3/25/2017,Adults,1500,Live Phone
+0.41,Gallup,3/24/2017,Adults,1500,Live Phone
+0.41,Gallup,3/23/2017,Adults,1500,Live Phone
+0.44,Rasmussen,3/23/2017,Likely Voters,1500,IVR/Online
+0.37,ICITIZEN,3/23/2017,Adults,1101,Internet
+0.42,SurveyMonkey,3/23/2017,Adults,12306,Internet
+0.39,Gallup,3/22/2017,Adults,1500,Live Phone
+0.47,Rasmussen,3/22/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,3/21/2017,Adults,1500,Live Phone
+0.41,YouGov/Economist,3/21/2017,Adults,1500,Internet
+0.46,Rasmussen,3/21/2017,Likely Voters,1500,IVR/Online
+0.47,Ipsos/Reuters,3/21/2017,Adults,1606,Internet
+0.37,Quinnipiac,3/21/2017,Registered Voters,1056,Live Phone
+0.39,Gallup,3/20/2017,Adults,1500,Live Phone
+0.41,ARG,3/20/2017,Adults,1100,Live Phone
+0.5,Rasmussen,3/20/2017,Likely Voters,1500,IVR/Online
+0.39,Gallup,3/19/2017,Adults,1500,Live Phone
+0.5,Politico/Morning Consult,3/19/2017,Registered Voters,1927,Internet
+0.49,Rasmussen,3/19/2017,Likely Voters,1500,IVR/Online
+0.37,Gallup,3/18/2017,Adults,1500,Live Phone
+0.4,Gallup,3/17/2017,Adults,1500,Live Phone
+0.49,Harris/Harvard,3/16/2017,Registered Voters,2092,Internet
+0.41,Gallup,3/16/2017,Adults,1500,Live Phone
+0.48,Rasmussen,3/16/2017,Likely Voters,1500,IVR/Online
+0.42,ICITIZEN,3/16/2017,Adults,1309,Internet
+0.46,SurveyMonkey,3/16/2017,Adults,12133,Internet
+0.42,Gallup,3/15/2017,Adults,1500,Live Phone
+0.47,Rasmussen,3/15/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,3/14/2017,Adults,1500,Internet
+0.43,FOX,3/14/2017,Registered Voters,1008,Live Phone
+0.4,Gallup,3/14/2017,Adults,1500,Live Phone
+0.45,Rasmussen,3/14/2017,Likely Voters,1500,IVR/Online
+0.45,Ipsos/Reuters,3/14/2017,Adults,1750,Internet
+0.39,Gallup,3/13/2017,Adults,1500,Live Phone
+0.52,Politico/Morning Consult,3/13/2017,Registered Voters,1983,Internet
+0.46,Rasmussen,3/13/2017,Likely Voters,1500,IVR/Online
+0.43,PPP (D),3/12/2017,Likely Voters,808,IVR/Online
+0.42,Gallup,3/12/2017,Adults,1500,Live Phone
+0.47,Rasmussen,3/12/2017,Likely Voters,1500,IVR/Online
+0.36,Kaiser FF,3/12/2017,Adults,1206,Live Phone
+0.43,Pew,3/12/2017,Adults,3844,Live Phone/Online
+0.45,Gallup,3/11/2017,Adults,1500,Live Phone
+0.44,Saint Leo University,3/11/2017,Adults,1073,Internet
+0.44,Gallup,3/10/2017,Adults,1500,Live Phone
+0.42,Gallup,3/9/2017,Adults,1500,Live Phone
+0.48,Rasmussen,3/9/2017,Likely Voters,1500,IVR/Online
+0.47,SurveyMonkey,3/9/2017,Adults,12257,Internet
+0.41,Gallup,3/8/2017,Adults,1500,Live Phone
+0.49,Rasmussen,3/8/2017,Likely Voters,1500,IVR/Online
+0.42,YouGov/Economist,3/7/2017,Adults,1500,Internet
+0.42,Gallup,3/7/2017,Adults,1500,Live Phone
+0.49,Rasmussen,3/7/2017,Likely Voters,1500,IVR/Online
+0.48,Ipsos/Reuters,3/7/2017,Adults,1662,Internet
+0.43,Gallup,3/6/2017,Adults,1500,Live Phone
+0.5,Politico/Morning Consult,3/6/2017,Registered Voters,1992,Internet
+0.51,Rasmussen,3/6/2017,Likely Voters,1500,IVR/Online
+0.41,Quinnipiac,3/6/2017,Registered Voters,1283,Live Phone
+0.44,Gallup,3/5/2017,Adults,1500,Live Phone
+0.43,Monmouth University,3/5/2017,Adults,801,Live Phone
+0.48,SurveyMonkey,3/5/2017,Adults,4551,Internet
+0.47,Suffolk/USA Today,3/5/2017,Registered Voters,1000,Live Phone
+0.52,Rasmussen,3/5/2017,Likely Voters,1500,IVR/Online
+0.43,Gallup,3/4/2017,Adults,1500,Live Phone
+0.45,CNN,3/4/2017,Adults,1025,Live Phone
+0.41,IBD/TIPP,3/4/2017,Adults,909,Live Phone
+0.43,Gallup,3/3/2017,Adults,1500,Live Phone
+0.43,Gallup,3/2/2017,Adults,1500,Live Phone
+0.53,Rasmussen,3/2/2017,Likely Voters,1500,IVR/Online
+0.45,SurveyMonkey,3/2/2017,Adults,12273,Internet
+0.43,Gallup,3/1/2017,Adults,1500,Live Phone
+0.52,Rasmussen,3/1/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,3/1/2017,Adults,1500,Internet
+0.43,Gallup,2/28/2017,Adults,1500,Live Phone
+0.5,Rasmussen,2/28/2017,Likely Voters,1500,IVR/Online
+0.46,Ipsos/Reuters,2/28/2017,Adults,1847,Internet
+0.42,Gallup,2/27/2017,Adults,1500,Live Phone
+0.5,Rasmussen,2/27/2017,Likely Voters,1500,IVR/Online
+0.5,Politico/Morning Consult,2/26/2017,Registered Voters,2000,Internet
+0.42,Gallup,2/26/2017,Adults,1500,Live Phone
+0.51,Rasmussen,2/26/2017,Likely Voters,1500,IVR/Online
+0.41,Gallup,2/25/2017,Adults,1500,Live Phone
+0.41,Gallup,2/24/2017,Adults,1500,Live Phone
+0.43,Gallup,2/23/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/23/2017,Likely Voters,1500,IVR/Online
+0.44,SurveyMonkey,2/23/2017,Adults,10639,Internet
+0.45,PPP (D),2/22/2017,Likely Voters,941,IVR/Online
+0.43,Gallup,2/22/2017,Adults,1500,Live Phone
+0.52,Rasmussen,2/22/2017,Likely Voters,1500,IVR/Online
+0.44,NBC/WSJ,2/22/2017,Adults,1000,Live Phone
+0.43,YouGov/Economist,2/22/2017,Adults,1500,Internet
+0.42,Gallup,2/21/2017,Adults,1500,Live Phone
+0.51,Rasmussen,2/21/2017,Likely Voters,1500,IVR/Online
+0.39,CBS,2/21/2017,Adults,1280,Live Phone
+0.45,Ipsos/Reuters,2/21/2017,Adults,2338,Internet
+0.38,Quinnipiac,2/21/2017,Registered Voters,1323,Live Phone
+0.41,Gallup,2/20/2017,Adults,1500,Live Phone
+0.43,ARG,2/20/2017,Adults,1100,Live Phone
+0.5,Rasmussen,2/20/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,2/19/2017,Adults,1500,Live Phone
+0.49,Politico/Morning Consult,2/19/2017,Registered Voters,2013,Internet
+0.41,McClatchy/Marist,2/19/2017,Registered Voters,864,Live Phone
+0.51,Rasmussen,2/19/2017,Likely Voters,1500,IVR/Online
+0.43,NBC/SurveyMonkey,2/19/2017,Adults,11512,Internet
+0.41,HuffPost/YouGov,2/18/2017,Adults,1000,Internet
+0.41,Gallup,2/18/2017,Adults,1500,Live Phone
+0.4,Gallup,2/17/2017,Adults,1500,Live Phone
+0.45,SurveyMonkey,2/17/2017,Adults,9163,Internet
+0.38,Gallup,2/16/2017,Adults,1500,Live Phone
+0.55,Rasmussen,2/16/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,2/15/2017,Adults,1500,Live Phone
+0.55,Rasmussen,2/15/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,2/14/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/14/2017,Likely Voters,1500,IVR/Online
+0.43,YouGov/Economist,2/14/2017,Adults,1500,Internet
+0.46,Ipsos/Reuters,2/14/2017,Adults,1774,Internet
+0.48,Harris/Harvard,2/13/2017,Registered Voters,2148,Internet
+0.48,FOX,2/13/2017,Registered Voters,1013,Live Phone
+0.4,Gallup,2/13/2017,Adults,1500,Live Phone
+0.52,Rasmussen,2/13/2017,Likely Voters,1500,IVR/Online
+0.4,Gallup,2/12/2017,Adults,1500,Live Phone
+0.52,Rasmussen,2/12/2017,Likely Voters,1500,IVR/Online
+0.39,Pew,2/12/2017,Adults,1503,Live Phone
+0.46,SurveyMonkey,2/12/2017,Adults,9349,Internet
+0.4,Gallup,2/11/2017,Adults,1500,Live Phone
+0.49,Politico/Morning Consult,2/10/2017,Registered Voters,1791,Internet
+0.41,Gallup,2/10/2017,Adults,1500,Live Phone
+0.42,Gallup,2/9/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/9/2017,Likely Voters,1500,IVR/Online
+0.43,PPP (D),2/8/2017,Likely Voters,712,IVR/Online
+0.43,Gallup,2/8/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/8/2017,Likely Voters,1500,IVR/Online
+0.43,Gallup,2/7/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/7/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,2/7/2017,Adults,1500,Internet
+0.48,Ipsos/Reuters,2/7/2017,Adults,1896,Internet
+0.42,Gallup,2/6/2017,Adults,1500,Live Phone
+0.42,Quinnipiac,2/6/2017,Registered Voters,1155,Live Phone
+0.53,Rasmussen,2/6/2017,Likely Voters,1500,IVR/Online
+0.42,Gallup,2/5/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/5/2017,Likely Voters,1500,IVR/Online
+0.46,SurveyMonkey,2/5/2017,Adults,9219,Internet
+0.47,Politico/Morning Consult,2/4/2017,Registered Voters,2070,Internet
+0.47,Zogby,2/4/2017,Likely Voters,860,Internet
+0.42,Gallup,2/4/2017,Adults,1500,Live Phone
+0.44,Gallup,2/3/2017,Adults,1500,Live Phone
+0.4,CBS,2/2/2017,Adults,1019,Live Phone
+0.44,CNN,2/2/2017,Adults,1002,Live Phone
+0.43,Gallup,2/2/2017,Adults,1500,Live Phone
+0.54,Rasmussen,2/2/2017,Likely Voters,1500,IVR/Online
+0.42,IBD/TIPP,2/2/2017,Adults,885,Live Phone
+0.43,Gallup,2/1/2017,Adults,1500,Live Phone
+0.53,Rasmussen,2/1/2017,Likely Voters,1500,IVR/Online
+0.47,PPP (D),1/31/2017,Likely Voters,725,IVR/Online
+0.43,Gallup,1/31/2017,Adults,1500,Live Phone
+0.53,Rasmussen,1/31/2017,Likely Voters,1500,IVR/Online
+0.43,YouGov/Economist,1/31/2017,Adults,1500,Internet
+0.46,Ipsos/Reuters,1/31/2017,Adults,3151,Internet
+0.43,Gallup,1/30/2017,Adults,1500,Live Phone
+0.48,SurveyMonkey,1/30/2017,Adults,4444,Internet
+0.51,Rasmussen,1/30/2017,Likely Voters,1500,IVR/Online
+0.43,Gallup,1/29/2017,Adults,1500,Live Phone
+0.53,Rasmussen,1/29/2017,Likely Voters,1500,IVR/Online
+0.49,Politico/Morning Consult,1/28/2017,Registered Voters,1991,Internet
+0.42,Gallup,1/28/2017,Adults,1500,Live Phone
+0.42,Gallup,1/27/2017,Adults,1500,Live Phone
+0.45,Gallup,1/26/2017,Adults,1500,Live Phone
+0.55,Rasmussen,1/26/2017,Likely Voters,1500,IVR/Online
+0.46,Gallup,1/25/2017,Adults,1500,Live Phone
+0.59,Rasmussen,1/25/2017,Likely Voters,1500,IVR/Online
+0.41,YouGov/Economist,1/25/2017,Adults,2692,Internet
+0.36,Quinnipiac,1/25/2017,Registered Voters,1190,Live Phone
+0.44,PPP (D),1/24/2017,Likely Voters,1043,IVR/Online
+0.46,Gallup,1/24/2017,Adults,1500,Live Phone
+0.57,Rasmussen,1/24/2017,Likely Voters,1500,IVR/Online
+0.43,Ipsos/Reuters,1/24/2017,Adults,1633,Internet
+0.45,Gallup,1/23/2017,Adults,1500,Live Phone
+0.46,Politico/Morning Consult,1/22/2017,Registered Voters,1992,Internet
+0.45,Gallup,1/22/2017,Adults,1500,Live Phone
