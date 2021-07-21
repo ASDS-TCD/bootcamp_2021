@@ -180,11 +180,11 @@ objects() # List the objects currently on your global
 ls()
 
 # you can also remove objects
-QPM <- 100
+ASDS <- 100
 ls()
-rm(QPM)
+rm(ASDS)
 # equivalent to
-remove(QPM)
+remove(ASDS)
 
 # more example:
 ls()
