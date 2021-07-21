@@ -268,7 +268,7 @@ logic
 # https://programminghistorian.org/en/lessons/getting-started-with-github-desktop
 
 # The first thing that you need are the .R and .tex files
-# https://github.com/jeffreyziegler/QTM200Spring2021/tree/main/problem_sets
+# https://github.com/ASDS-TCD/StatsI_Fall2021/tree/main/problemSets
 
 # Once you have downloaded both files into the same 
 # working directory, you should create duplicates with new names
