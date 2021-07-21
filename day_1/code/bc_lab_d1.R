@@ -267,7 +267,11 @@ logic
 # What is GitHub?
 # https://programminghistorian.org/en/lessons/getting-started-with-github-desktop
 
-# The first thing that you need are the .R and .tex files
+# The first thing you need to do is fork the main repository so you'll have your own
+# copy that syncs ("pulls") from the original when you refresh ("fetch") your branch
+# https://github.com/ASDS-TCD/StatsI_Fall2021 
+
+# The second thing that you need are the .R and .tex files
 # https://github.com/ASDS-TCD/StatsI_Fall2021/tree/main/problemSets
 
 # Once you have downloaded both files into the same 
@@ -278,3 +282,6 @@ logic
 # and begin to edit with your answers in 
 # Rstudio and Texstudio
 
+# More resources for GitHub:
+# https://morioh.com/p/f3c4782c9dd6
+# https://guides.github.com/activities/hello-world/
