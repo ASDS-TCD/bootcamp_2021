@@ -8,7 +8,7 @@ This is the central repository for the pre-semester math and code bootcamp for i
 The over-arching goals of this week's bootcamp are to: 
 - Translate social and political phenomena into mathematical notation
 - Translate mathematical notation into code (R, python)
-- Download, install, and begin working with computer programs and languages (RStudio, LaTeX, Jypter, Git)
+- Download, install, and begin working with computer programs and languages (RStudio, LaTeX, Jypter, Git, command line)
       
 To achieve these goals, we'll concentrate on these topics through out our week together:
 
