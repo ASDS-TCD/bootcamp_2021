@@ -6,7 +6,7 @@ This is the central repository for the pre-semester math and code bootcamp for i
 - PhD in Political Science at University College Dublin
 
 The over-arching goals of this week's bootcamp are to: 
-- Translate social (political) phenomena into mathematical notation
+- Translate social and political phenomena into mathematical notation
 - Translate mathematical notation into code (R, python)
       
 To achieve these goals, we'll concentrate on these topics through out our week together:
